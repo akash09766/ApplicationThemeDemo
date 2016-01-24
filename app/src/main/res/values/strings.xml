@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">ThemeDemo</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="action_lang">Langauge</string>
+    <string name="action_theme">Themes</string>
+
+    <string name="dialog_title">Info</string>
+    <string name="dialog_message">To Change the langauge ,please goto device setting and select " +
+                "Langauge and keyboard option and then select Langauge option to choose your preffred langauge." +
+                " \n" + "Currenlty we support only English and Hindi</string>
+
+    <string name="select_lang">Select the langauge</string>
+    <string-array name="lang_options">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="select_theme">Select the theme</string>
+    <string-array name="theme_options">
+        <item>Theme 1</item>
+        <item>Theme 2</item>
+        <item>Theme 3</item>
+    </string-array>
+
+    <string name="title_activity_welcome">Welcome</string>
+</resources>

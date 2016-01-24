@@ -1,0 +1,72 @@
+<resources>
+
+    <!-- Theme 01 -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:buttonStyle">@style/button_style</item>
+        <item name="android:textViewStyle">@style/textview_style</item>
+    </style>
+
+
+    <style name="button_style" parent="AlertDialog.AppCompat">
+        <item name="android:background">@color/login_but_Color</item>
+    </style>
+
+    <style name="textview_style" parent="AlertDialog.AppCompat">
+        <item name="android:textColor">@color/login_but_Color</item>
+    </style>
+
+    <!-- Theme 02 -->
+    <style name="AppTheme_01" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary_01</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_01</item>
+        <item name="colorAccent">@color/colorAccent_01</item>
+        <item name="android:buttonStyle">@style/button_style_01</item>
+        <item name="android:textViewStyle">@style/textview_style_01</item>
+    </style>
+
+    <style name="button_style_01" parent="AlertDialog.AppCompat">
+        <item name="android:background">@color/login_but_Color_01</item>
+    </style>
+
+    <style name="textview_style_01" parent="AlertDialog.AppCompat">
+        <item name="android:textColor">@color/login_but_Color_01</item>
+    </style>
+
+    <!-- Theme 03 -->
+    <style name="AppTheme_02" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary_02</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_02</item>
+        <item name="colorAccent">@color/colorAccent_02</item>
+        <item name="android:buttonStyle">@style/button_style_02</item>
+        <item name="android:textViewStyle">@style/textview_style_02</item>
+    </style>
+
+    <style name="button_style_02" parent="AlertDialog.AppCompat">
+        <item name="android:background">@color/login_but_Color_02</item>
+    </style>
+
+    <style name="textview_style_02" parent="AlertDialog.AppCompat">
+        <item name="android:textColor">@color/login_but_Color_02</item>
+    </style>
+
+
+    <style name="AlertDialogCustom" parent="AlertDialog.AppCompat.Light">
+        <item name="android:alertDialogStyle">@style/AppTheme</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

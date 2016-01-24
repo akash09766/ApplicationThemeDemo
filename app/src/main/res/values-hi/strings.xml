@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">विषय डेमो</string>
+
+
+    <string name="welcome">स्वागतम</string>
+    <string name="prompt_email">ईमेल पता</string>
+    <string name="prompt_password">पासवर्ड</string>
+    <string name="action_sign_in">लॉगिन</string>
+    <string name="error_invalid_email">ईमेल पता अवैध है</string>
+    <string name="error_invalid_password"></string>
+    <string name="error_incorrect_password">पासवर्ड गलत है</string>
+    <string name="error_field_required">यह फ़ील्ड आवश्यक है</string>
+
+    <string name="action_theme">दिखावट</string>
+    <string name="action_lang">भाषा</string>
+
+    <string name="select_lang">भाषा का चयन करें</string>
+
+    <string-array name="lang_options">
+        <item>अंग्रेज़ी</item>
+        <item>हिंदी</item>
+    </string-array>
+    <string name="ok">ठीक है</string>
+    <string name="cancel">रद्द करना</string>
+
+
+    <string name="select_theme">दिखावट का चयन कर</string>
+    <string-array name="theme_options">
+        <item>दिखावट 1</item>
+        <item>दिखावट 2</item>
+        <item>दिखावट 3</item>
+    </string-array>
+    <string name="title_activity_welcome">स्वागत</string>
+
+</resources>

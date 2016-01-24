@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- set of color for theme 01 -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="login_but_Color">#C5CAE9</color>
+
+    <!-- set of color for theme 02 -->
+    <color name="colorPrimary_01">#F44336</color>
+    <color name="colorPrimaryDark_01">#D32F2F</color>
+    <color name="colorAccent_01">#E040FB</color>
+    <color name="login_but_Color_01">#FFCDD2</color>
+
+    <!-- set of color for theme 03 -->
+    <color name="colorPrimary_02">#009688</color>
+    <color name="colorPrimaryDark_02">#00796B</color>
+    <color name="colorAccent_02">#E040FB</color>
+    <color name="login_but_Color_02">#B2DFDB</color>
+</resources>
